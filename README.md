@@ -1,5 +1,7 @@
 
 # MY new PS/2 SELF WRITING KEYLOGGER 
+# ONLY FOR PS/2 KEYBOARD , and some USB keyboards which are adapted to work as PS/2 , 
+# But GENIUNE USB keyboards as DELL / HP / Etc.. must use another keylogger using (Atmega 32U4 + USB host sheild ) i will do it for you too ;) 
 # 💿 IDEA Owner , By : SaherBlueEagle
 # First Edition Project 
 https://github.com/SaherBlueEagle/SaherBlueEagleHardwareKeylogger
