@@ -10,7 +10,7 @@
 #include <ps2dev.h>
 #include <SD.h>
 const int DataPin = 3; //data green in my ps2 keyboard 
-
+// cc _ stands for (c)har (c)ontent
 const int IRQpin =  2;   //clk gray in my ps2 keyboard
 String pass,format;
 String incoming = ""; 
